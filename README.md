@@ -12,6 +12,8 @@ This module allows you to manage [django-comments-xtd](https://github.com/daniru
 ## Instructions
 
 `pip install wagtailcomments_xtd`
+
 Add `'wagtailcomments_xtd'` to your INSTALLED_APPS
+
 Add `'wagtailfontawesome'` to INSTALLED_APPS if it's not there already
 
