@@ -5,7 +5,7 @@ setup(
     name='wagtailcomments_xtd',
     author='Adrien Lachaize',
     author_email='adrien.lachaize@gmail.com',
-    version='0.0.1',
+    version='0.0.2',
     url='https://github.com/adrihein/wagtailcomments_xtd',
     classifiers=[
         "Environment :: Web Environment",
@@ -20,6 +20,7 @@ setup(
     install_requires=[
         "wagtail>1.7",
         "Django>=1.8.16",
-        "wagtailfontawesome>=1.0.2"
+        "wagtailfontawesome>=1.0.2",
+        "django-comments-xtd>=1.6.3"
     ],
 )
